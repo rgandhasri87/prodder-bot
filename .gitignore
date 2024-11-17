@@ -1,0 +1,6 @@
+# Will likely be adding more as I use new tools/frameworks and implement new features.
+
+# dependencies
+node_modules/
+
+.env
