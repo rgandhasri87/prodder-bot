@@ -3,4 +3,7 @@
 # dependencies
 node_modules/
 
-.env
+# outputs
+dist/
+
+bot-config.json
